@@ -1,2 +1,2 @@
 # AmazonPriceTracker
-Automate your search with this code
+Automate your search across AMAZON.
